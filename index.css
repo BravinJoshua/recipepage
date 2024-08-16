@@ -4,13 +4,16 @@ body {
   max-width: 800px;
   margin-left: auto;
   margin-right: auto;
-  background-color: rgb(223, 169, 136);
+  background-color: rgb(231, 209, 196);
   font-family: "Outfit", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
+  line-height: 2;
 }
-
+b {
+  color: rgb(65, 63, 63);
+}
 h1,
 h2 {
   font-family: "Young Serif", serif;
@@ -22,13 +25,13 @@ img {
   width: 100%;
   height: auto;
   max-width: 100%;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
 }
 .omeletteimage {
   padding: 10px;
 }
 
-.layout {
+section {
   background-color: white;
   padding: 20px;
   border-radius: 0.5rem;
@@ -38,7 +41,7 @@ img {
 }
 .preperation {
   padding: 10px;
-  background-color: rgba(228, 207, 207, 0.829);
+  background-color: rgba(231, 221, 221, 0.829);
   border-radius: 0.5rem;
 }
 .info {
