@@ -19,6 +19,9 @@ h2 {
   font-family: "Young Serif", serif;
   font-weight: 400;
   font-style: normal;
+  color: rgb(163, 55, 55);
+}
+div b {
   color: brown;
 }
 img {
@@ -34,10 +37,10 @@ img {
 section {
   background-color: white;
   padding: 20px;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
 }
 .this {
-  border-radius: 0.5rem;
+  border-radius: 1rem;
 }
 .preperation {
   padding: 10px;
